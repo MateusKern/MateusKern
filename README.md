@@ -11,8 +11,8 @@ Hi, Welcome to Mateus Garrido Kern's GitHub
 
   ##
 
-Technologies I'm interested in:
-<div style="display: inline_block"><br>
+Technologies I am familiar with:
+<div style="display: inline_block">
   <img align="center" alt="Mateus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Mateus-DotNetCore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Mateus-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
@@ -27,7 +27,8 @@ Technologies I'm interested in:
 </div>
 
   ##
-  
+
+My contacts:
 <div>
   <a href="mailto:mateus.g.kern@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://linkedin.com/in/mateus-garrido-kern-739aa43b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
